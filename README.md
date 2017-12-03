@@ -1,3 +1,2 @@
-# hello-world
-project test
-Testing GitHub for code repository.
+# Titatic Kaggle contest
+First project both on Kaggle and GitHub.
